@@ -15,7 +15,7 @@ The Movie Management project is a **mobile application** designed to manage a mo
 ### Key Features
 ---
 
-** **Login/Logout** and viewing **ONLY** movies that were added by the logged user;
+* **Login/Logout** and viewing **ONLY** movies that were added by the logged user;
 * **Add/Edit/View** movie information;
 * Use of **Pagination** when displaying the movie list;
 * **Search and Filter**
