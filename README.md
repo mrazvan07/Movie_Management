@@ -23,4 +23,7 @@ The Movie Management project is a **mobile application** designed to manage a mo
 * **Animations** and **Network Status** displayed on the main page; 
 
 ### Demo
+---
+
+https://github.com/mrazvan07/Movie_Management/assets/94760847/f0048e18-74fc-4634-be92-4afc57f22730
 
